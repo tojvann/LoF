@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - gradingSystem",
             "request": "launch",
             "mainClass": "gradingSystem",
