@@ -21,6 +21,11 @@ public class variables {
         System.out.println(exp2);
         // The precedence of *, /, % is same but greater than +,-
 
+        // Power
+        int exp3 = (int) Math.pow(2, 3);
+        System.out.println(exp3);
+        System.out.println(Math.pow(2, 3));
+
     }
 
 }
