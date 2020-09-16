@@ -6,3 +6,5 @@ Leap of Faith
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0 | [isPrime]() | [Java](./Getting%20Started/isPrime.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
+1 | [print all Primes till N]() | [Java](./Getting%20Started/allPrimesTillN.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
+
