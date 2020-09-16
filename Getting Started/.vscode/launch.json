@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - takingInput",
+            "request": "launch",
+            "mainClass": "takingInput",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - loops",
             "request": "launch",
             "mainClass": "loops",
