@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/language-Java-orange.svg)&nbsp;
+![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 # LoF
 Leap of Faith
 ## Basic Problems Lesson 1
