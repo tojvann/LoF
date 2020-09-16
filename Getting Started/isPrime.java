@@ -44,6 +44,8 @@ prime
 not prime
 
 */
+/*----------------------------------------------------------------------------------------*/
+//My Solution
 import java.util.*;
 
 public class isPrime {
@@ -52,7 +54,7 @@ public class isPrime {
 
         int t = scn.nextInt();
 
-        while (t) {
+        while (t > 0) {
             int n = scn.nextInt();
             int flag = 0;
             for (int i = 2; i <= (int) Math.sqrt(n); i++) {
@@ -61,7 +63,7 @@ public class isPrime {
                     break;
                 }
             }
-            if (flag)
+            if (flag > 0)
                 System.out.println("not prime");
             else
                 System.out.println("prime");
@@ -70,22 +72,33 @@ public class isPrime {
     }
 
 }
+/*----------------------------------------------------------------------------------*/
+// Problem Setter's Solution
+// import java.util.*;
 
-/*
- * Problem Setter Solution import java.util.*;
- * 
- * public class Main {
- * 
- * public static void main(String[] args) { Scanner scn = new
- * Scanner(System.in); int t = scn.nextInt();
- * 
- * for (int i = 0; i < t; i++) { int n = scn.nextInt();
- * 
- * int div = 2; while (div * div <= n) { if (n % div == 0) { break; } div++; }
- * 
- * if (div * div > n) { System.out.println("prime"); } else {
- * System.out.println("not prime"); } }
- * 
- * } }
- * 
- */
+// public class Main {
+
+// public static void main(String[] args) {
+// Scanner scn = new Scanner(System.in);
+// int t = scn.nextInt();
+
+// for (int i = 0; i < t; i++) {
+// int n = scn.nextInt();
+
+// int div = 2;
+// while (div * div <= n) {
+// if (n % div == 0) {
+// break;
+// }
+// div++;
+// }
+
+// if (div * div > n) {
+// System.out.println("prime");
+// } else {
+// System.out.println("not prime");
+// }
+// }
+
+// }
+// }

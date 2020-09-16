@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - isPrime1",
+            "request": "launch",
+            "mainClass": "isPrime1",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - takingInput",
             "request": "launch",
             "mainClass": "takingInput",
