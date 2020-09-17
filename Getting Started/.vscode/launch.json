@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - gcdLcm",
+            "request": "launch",
+            "mainClass": "gcdLcm",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - rotateNum",
             "request": "launch",
             "mainClass": "rotateNum",
