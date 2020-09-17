@@ -14,3 +14,4 @@ Leap of Faith
 6 | [Inverse of a Number]() | [Java](./Getting%20Started/inverse.java)    | _O(n)_       |  _O(1)_        | Easy         |||
 7 | [Rotate a Number]() | [Java](./Getting%20Started/rotateNum.java)    | _O(n)_       |  _O(1)_        | Easy         |||
 8 | [GCD and LCM]() | [Java](./Getting%20Started/gcdLcm.java)    | _O(log(a+b))_       |  _O(1)_        | Easy         ||To Derive Time Complexity|
+9 | [Prime Factorization of a Number]() | [Java](./Getting%20Started/primeFactorization.java)    | _O(√n)_       |  _O(1)_        | Easy         ||Prove Validity of last if condition|
