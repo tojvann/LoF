@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - primeFactorization",
+            "request": "launch",
+            "mainClass": "primeFactorization",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - gcdLcm",
             "request": "launch",
             "mainClass": "gcdLcm",
