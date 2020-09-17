@@ -8,4 +8,5 @@ Leap of Faith
 0 | [isPrime]() | [Java](./Getting%20Started/isPrime.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
 1 | [print all Primes till N]() | [Java](./Getting%20Started/allPrimesTillN.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
 2 | [print all Fibonacci till N]() | [Java](./Getting%20Started/fibonacciTillN.java)    | _O(n)_       |  _O(1)_        | Easy         |||
+3 | [Count Digits in a Number]() | [Java](./Getting%20Started/countDigits.java)    | _O(n)_       |  _O(1)_        | Easy         |||
 
