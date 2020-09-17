@@ -1,15 +1,15 @@
 
 /*
 ----------------------------------------------------------------------------------
-        Digits of a number
+        Reverse a Number
 ----------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------
 Question
 ----------------------------------------------------------------------------------
-1. You've to display the digits of a number.
-2. Take as input "n", the number for which digits have to be displayed.
-3. Print the digits of the number line-wise.
+1. You've to display the digits of a number in reverse.
+2. Take as input "n", the number for which digits have to be display in reverse.
+3. Print the digits of the number line-wise, but in reverse order.
 
 ----------------------------------------------------------------------------------
 Input Format
@@ -22,7 +22,7 @@ Output Format
 d1
 d2
 d3
-... digits of the number
+... digits of the number in reverse
 
 ----------------------------------------------------------------------------------
 Constraints
@@ -37,38 +37,29 @@ Sample Input
 ----------------------------------------------------------------------------------
 Sample Output
 ----------------------------------------------------------------------------------
-6
-5
-7
+3
 8
+3
 4
-3
 8
-3
+7
+5
+6
 
 */
-
-// My solution is not very refined hackerish sort of solution look at the optimal solution
 import java.util.*;
 
-public class digits {
+public class reverse {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-        int temp = n;
-        int count = 0;
         while (n != 0) {
-            count++;
+            System.out.println(n % 10);
             n /= 10;
-        }
-        count--;
-        while (count != -1) {
-            System.out.println(temp / (int) (Math.pow(10, count)));
-            temp = temp % (int) (Math.pow(10, count));
-            count--;
         }
     }
 }
+
 // ----------------------------------------------------------------------------------
 // Problem Setter's Solution
 // ----------------------------------------------------------------------------------
@@ -80,20 +71,11 @@ public class digits {
 // Scanner scn = new Scanner(System.in);
 // int n = scn.nextInt();
 
-// int power = 1;
-// int temp = n;
-// while (temp >= 10) {
-// temp /= 10;
-// power *= 10;
-// }
+// while (n != 0) {
+// int digit = n % 10;
+// n = n / 10;
 
-// temp = n;
-// while (power != 0) {
-// int digit = temp / power;
 // System.out.println(digit);
-
-// temp = temp % power;
-// power = power / 10;
 // }
 // }
 // }
