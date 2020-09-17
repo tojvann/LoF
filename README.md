@@ -12,3 +12,4 @@ Leap of Faith
 4 | [Digits of a Number]() | [Java](./Getting%20Started/digits.java)    | _O(n)_       |  _O(1)_        | Easy         ||Todo with Recursion|
 5 | [Reverse a Number]() | [Java](./Getting%20Started/reverse.java)    | _O(n)_       |  _O(1)_        | Easy         ||Todo with Recursion|
 6 | [Inverse of a Number]() | [Java](./Getting%20Started/inverse.java)    | _O(n)_       |  _O(1)_        | Easy         |||
+6 | [Rotate a Number]() | [Java](./Getting%20Started/rotateNum.java)    | _O(n)_       |  _O(1)_        | Easy         |||
