@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - rotateNum",
+            "request": "launch",
+            "mainClass": "rotateNum",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - inverse",
             "request": "launch",
             "mainClass": "inverse",
