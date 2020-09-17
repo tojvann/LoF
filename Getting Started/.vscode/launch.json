@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - benjaminBulbs",
+            "request": "launch",
+            "mainClass": "benjaminBulbs",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - pythagoreanTriplet",
             "request": "launch",
             "mainClass": "pythagoreanTriplet",
