@@ -10,3 +10,4 @@ Leap of Faith
 2 | [print all Fibonacci till N]() | [Java](./Getting%20Started/fibonacciTillN.java)    | _O(n)_       |  _O(1)_        | Easy         |||
 3 | [Count Digits in a Number]() | [Java](./Getting%20Started/countDigits.java)    | _O(n)_       |  _O(1)_        | Easy         |||
 4 | [Digits of a Number]() | [Java](./Getting%20Started/digits.java)    | _O(n)_       |  _O(1)_        | Easy         ||Todo with Recursion|
+5 | [Reverse a Number]() | [Java](./Getting%20Started/reverse.java)    | _O(n)_       |  _O(1)_        | Easy         |||
