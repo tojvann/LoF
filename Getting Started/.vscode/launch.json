@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - countDigits",
+            "request": "launch",
+            "mainClass": "countDigits",
+            "projectName": "Getting Started_165afd40"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - isPrime",
             "request": "launch",
             "mainClass": "isPrime",
