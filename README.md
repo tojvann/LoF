@@ -17,3 +17,8 @@ Leap of Faith
 9 | [Prime Factorization of a Number]() | [Java](./Getting%20Started/primeFactorization.java)    | _O(√n)_       |  _O(1)_        | Easy         ||Prove Validity of last if condition|
 10 | [Pythagorean Triplet]() | [Java](./Getting%20Started/pythagoreanTriplet.java)    | _O(1)_       |  _O(1)_        | Easy         |||
 11 | [319. Bulb Switcher / Benjamin Bulbs](https://leetcode.com/problems/bulb-switcher) | [Java](./Getting%20Started/benjaminBulbs.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
+
+## Pattern Problems Lesson 2
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0 | [pattern1]() | [Java](./Patterns/pattern1.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
