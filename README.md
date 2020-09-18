@@ -16,4 +16,4 @@ Leap of Faith
 8 | [GCD and LCM]() | [Java](./Getting%20Started/gcdLcm.java)    | _O(log(a+b))_       |  _O(1)_        | Easy         ||To Derive Time Complexity|
 9 | [Prime Factorization of a Number]() | [Java](./Getting%20Started/primeFactorization.java)    | _O(√n)_       |  _O(1)_        | Easy         ||Prove Validity of last if condition|
 10 | [Pythagorean Triplet]() | [Java](./Getting%20Started/pythagoreanTriplet.java)    | _O(1)_       |  _O(1)_        | Easy         |||
-11 | [Benjamin Bulbs]() | [Java](./Getting%20Started/benjaminBulbs.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
+11 | [Benjamin Bulbs / Bulb Switcher](https://leetcode.com/problems/bulb-switcher/submissions/) | [Java](./Getting%20Started/benjaminBulbs.java)    | _O(√n)_       |  _O(1)_        | Easy         |||
