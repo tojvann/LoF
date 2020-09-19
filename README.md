@@ -22,4 +22,6 @@ Leap of Faith
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0 | [pattern1]() | [Java](./Patterns/pattern1.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
-2 | [pattern2]() | [Java](./Patterns/pattern2.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
+1 | [pattern2]() | [Java](./Patterns/pattern2.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
+2 | [pattern3]() | [Java](./Patterns/pattern3.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
+
