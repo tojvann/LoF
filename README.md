@@ -25,3 +25,7 @@ Leap of Faith
 1 | [pattern2]() | [Java](./Patterns/pattern2.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
 2 | [pattern3]() | [Java](./Patterns/pattern3.java)    | _O(n²)_       |  _O(1)_        | Easy         |||
 
+## Functions Lesson 3
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0 | [Digit Frequency]() | [Java](./Patterns/digitFrequency.java)    | _O(n)_       |  _O(1)_        | Easy         |||
