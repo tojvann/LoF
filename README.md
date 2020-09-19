@@ -28,4 +28,4 @@ Leap of Faith
 ## Functions Lesson 3
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0 | [Digit Frequency]() | [Java](./Patterns/digitFrequency.java)    | _O(n)_       |  _O(1)_        | Easy         |||
+0 | [Digit Frequency]() | [Java](./Functions/digitFrequency.java)    | _O(n)_       |  _O(1)_        | Easy         |||
